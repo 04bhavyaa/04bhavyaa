@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+I am an enthusiastic B.Tech (Data Science) student with a strong analytical mindset and passion for uncovering insights from data. Skilled in data visualization, statistical analysis, and problem-solving. Eager to leverage technical expertise and critical thinking to drive data-informed decisions in a dynamic business environment, particularly in Education, Healthcare and E-Commerce.
+- 🔭 I’m currently working on improving my coding.
+- 🌱 I’m currently learning Python and Java.
+- 👯 I’m looking to collaborate on various beginner and intermediate level Data science projects.
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/bhavya-jha-52461b250/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am always ready to take on challenges!
 <!--
 **04bhavyaa/04bhavyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -22,6 +22,7 @@ Welcome to my GitHub! I’m a Data Science student specializing in Computer Scie
 
 🤝 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/bhavya-jha-52461b250/
+- Kaggle: https://www.kaggle.com/bhavyajha04
 - Medium: https://www.medium.com/@bhavyajha1404
 - Substack: https://www.substack.com/@04bhavyaa
 

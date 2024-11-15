@@ -21,9 +21,9 @@ Welcome to my GitHub! I’m a Data Science student specializing in Computer Scie
 - Collaborative Learning: Always open to collaborating with fellow tech enthusiasts, learning new tools, and sharing insights.
 
 🤝 Connect with Me
-LinkedIn: https://www.linkedin.com/in/bhavya-jha-52461b250/
-Medium: https://www.medium.com/@bhavyajha1404
-Substack: https://www.substack.com/@04bhavyaa
-Feel free to reach out if you’re interested in collaborating, discussing data science, or just connecting over tech!
+- LinkedIn: https://www.linkedin.com/in/bhavya-jha-52461b250/
+- Medium: https://www.medium.com/@bhavyajha1404
+- Substack: https://www.substack.com/@04bhavyaa
 
+Feel free to reach out if you’re interested in collaborating, discussing data science, or just connecting over tech!
 Happy Coding! 🚀

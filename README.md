@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Bhavya Jha
+# 👋 Hi there! Bhavya this side.
 
 Passionate about **AI, Data Science**, and **Digital Transformation**, I thrive at the intersection of technology, storytelling, and personal growth. Whether it’s building machine learning projects, writing thought-provoking articles, or inspiring others to embrace change, my goal is to create a meaningful impact.
 

@@ -5,11 +5,11 @@ Passionate about **AI, Data Science**, and **Digital Transformation**, I thrive 
 ---
 
 ## 🛠️ Technical Skills & Interests
-- **Programming Languages**: Python, SQL  
-- **Frameworks**: Flask, Django  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn  
+- **Programming Languages**: Python
+- **Frameworks**: Flask, Streamlit
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK  
 - **Tools & Platforms**:  
-  - Jupyter Notebooks, Anaconda, Docker, Git & GitHub, VSCode  
+  - Jupyter Notebooks, Anaconda, Git & GitHub, VSCode  
   - Figma, Postman, GitHub Actions, DVC, DagsHub  
   - Tableau, Power BI  
 - **Soft Skills**: Communication, Problem-Solving, Adaptability, Leadership  

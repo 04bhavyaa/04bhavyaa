@@ -23,10 +23,7 @@ Passionate about **AI, Data Science**, and **Machine Learning**, I thrive at the
 - **Collaborative Learning**: Actively engaging with communities of fellow tech enthusiasts to share knowledge and grow together.
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/bhavya-jha-52461b250/)  
-- [Kaggle](https://www.kaggle.com/bhavyajha04)  
-- [Medium](https://medium.com/@bhavyajha1404)  
-- [Substack](https://substack.com/@04bhavyaa)  
+[LinkedIn](https://www.linkedin.com/in/bhavya-jha-52461b250/) | [Kaggle](https://www.kaggle.com/bhavyajha04) | [Medium](https://medium.com/@bhavyajha1404) | [Substack](https://substack.com/@04bhavyaa)  
 
 Let’s connect if you’re interested in collaborating, discussing data science, or exchanging ideas about technology and innovation.
 

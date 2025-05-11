@@ -3,19 +3,19 @@ Passionate about **AI, Data Science**, and **Machine Learning**, I thrive at the
 
 ## 🛠️ Technical Skills & Interests
 - **Programming Languages**: Python
-- **Frameworks**: Flask, Streamlit
+- **Frameworks**: Flask, Streamlit, Django
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, NLTK  
 - **Tools & Platforms**:  
-  - Jupyter Notebooks, Anaconda, Git & GitHub, VSCode  
-  - Figma, Postman, GitHub Actions, DVC, DagsHub  
+  - Jupyter Notebooks, Anaconda, Git & GitHub, VSCode, PyCharm
+  - Figma, Postman, GitHub Actions, DVC, DagsHub, AWS, GCP, Docker
   - Tableau, Power BI  
 - **Soft Skills**: Communication, Problem-Solving, Adaptability, Leadership  
 - **Interests**: Internet of Things (IoT), Predictive Analytics, Generative AI, Tech for Social Impact  
 
 ## 🌱 What I’m Working On
-- **Personal Projects**: Music Recommender System, Expense Tracker, Book Recommendation System, Consultation Fee Prediction 
-- **Exploring Advanced Machine Learning Models**: Deepening my expertise in neural networks and generative models.  
-- **Generative AI Applications**: Understanding its potential in domains like content creation and data synthesis.  
+- **Personal Projects**
+- **Exploring Advanced Machine Learning Models**
+- **Generative AI Applications**
 
 ## 📈 Goals & Development
 - **Open Source Contributions**: Collaborating on projects that align with my passion for educational accessibility and tech for good.  

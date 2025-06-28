@@ -1,7 +1,5 @@
 # Hey, I'm Bhavya!
-I’m super passionate about the impact of AI in today’s world — whether it's building real-world tech, telling meaningful stories, or chasing personal growth. You'll usually find me vibing at the intersection of AI, backend engineering, and creativity.
-
-Currently working as an SDE Intern (AI Team) at a Blockchain x Web3 company. Building production-grade AI features has honestly been a blast — this might be my official geek arc 😄
+I’m super passionate about the impact of AI in today’s world — whether it's building real-world tech, telling meaningful stories, or chasing personal growth. You'll usually find me vibing at the intersection of AI, backend engineering, and creativity
 
 ### What I'm Up To 
 - Deep-diving into Generative AI, ML/DL, and Backend Dev (I only know python for now)

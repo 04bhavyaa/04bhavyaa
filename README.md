@@ -1,19 +1,57 @@
-# Hey, I'm Bhavya!
-I’m super passionate about the impact of AI in today’s world — whether it's building real-world tech, telling meaningful stories, or chasing personal growth. You'll usually find me vibing at the intersection of AI, backend engineering, and creativity
+<!-- banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" alt="coding creativity">
+</p>
 
-### What I'm Up To 
-- Deep-diving into Generative AI, ML/DL, and Backend Dev (I only know python for now)
-- Exploring cool ideas in AI x Storytelling
-- Actively learning new tools and technologiess
-- Connecting with tech peeps to collab, grow, and vibe together
+# Bhavya Jha
 
-### Projects & Content
-- Building projects that combine AI, automation, and user experience
-- Writing thought-provoking content on: Tech, personal growth, and learning curves | AI trends and what's really happening behind the hype
-- Catch my writing here: ✍️[Medium](https://medium.com/@bhavyajha1404) | 📚[Substack](https://substack.com/@04bhavyaa)
+*Deep‑diving into AI, backend dev, and storytelling.*
 
-### 🌐 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/bhavya-jha-52461b250/) | [Kaggle](https://www.kaggle.com/bhavyajha04) 
+---
 
-💡 Always down to brainstorm, collaborate, or just chat about ideas. 
-*“The future belongs to those who embrace change and innovate boldly.”*
+## 🚀 What Drives Me
+- Exploring **Generative AI**, ML/DL pipelines, and building scalable backend systems.
+- Telling compelling AI‑powered stories—merging tech and creativity.
+- Always learning new tools, frameworks, and languages.
+- Building collabs and forging connections with fellow tech creators.
+
+---
+
+## 🛠 Skills & Tools
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,docker,postgresql,kubernetes,aws,git,github&theme=light&perline=6" /></a>
+</p>
+
+---
+
+## 📂 Projects in Progress
+| Project | Description |
+|--------|-------------|
+| **AI Story Generator** | Using GPT‑style models to craft dynamic narratives based on user prompts. |
+| **Auto‑doc API service** | Microservices that parse code and auto‑generate docs with intelligent insights. |
+| **Learning Tracker** | Tracks personal growth and learning habits, with analytics dashboard. |
+
+---
+
+## ✍️ Content & Writing
+- Blogging on AI trends, backend meta, and mindset-building.
+- Featured on [Medium] and [Substack]—sharing deep‑dive research, real talk, and growth mindset content.
+
+---
+
+## 🔗 Let’s Connect
+- [LinkedIn]()
+- [Kaggle]()
+- Always open to collabs, ideas, feedback or quick brainstorm sessions.
+
+---
+
+## 📫 My Approach
+> “Embrace change, innovate boldly.” Always forward‑thinking. Always pushing the edge.
+
+---
+
+---
+
+*Minimalist. Tech‑driven. Boldly authentic.*
+

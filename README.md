@@ -5,6 +5,7 @@
 ## What I'm Working On 🚀
 - **Generative AI & Machine Learning** — developing intelligent systems that solve real-world problems
 - **Backend Engineering** — building scalable Python-based applications and APIs
+- **AI Agents & Agentic AI** — diving deep into autonomous AI systems and multi-agent architectures
 - **AI-Driven Storytelling** — exploring how technology can enhance human narratives
 - **Community Building** — connecting with fellow developers to collaborate and share knowledge
 
@@ -17,6 +18,8 @@ My approach combines technical rigor with creative thinking — I believe the be
 
 ## Current Focus Areas 🎯
 - **Technical Skills**: Deep-diving into advanced ML/DL techniques and scalable backend architectures
+- **Emerging Tech**: Exploring gRPC for high-performance APIs and MCP (Model Context Protocol) for AI integration
+- **Agentic AI**: Building autonomous AI agents and studying multi-agent system architectures
 - **Content Creation**: Writing analytical pieces on AI trends, decision science, and productivity
 - **Open Source**: Contributing to projects that democratize AI technology
 - **Learning**: Continuously expanding my toolkit with new frameworks and methodologies
@@ -54,7 +57,7 @@ I regularly publish insights on technology, psychology, and personal development
 
 **Core Languages & Frameworks:**
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>\
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -86,7 +89,6 @@ I regularly publish insights on technology, psychology, and personal development
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
 </p>
 
 **Development Tools:**

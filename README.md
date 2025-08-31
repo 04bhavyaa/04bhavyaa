@@ -1,5 +1,5 @@
 # Hey! Welcome to my page.
-I'm a final-year Computer Science student specializing in **Data Science** at NMIMS, Chandigarh. My expertise lies in backend systems, end to end ML applications and AI/ML.
+I'm a final-year Computer Science student specializing in **Data Science**. My expertise lies in backend systems, end to end ML applications and AI/ML.
 
 ## 🔧 Tech Stack Highlights
 - Programming & Languages: Python, R, SQL 

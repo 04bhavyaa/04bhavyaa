@@ -7,7 +7,7 @@ I'm a final-year Computer Science student specializing in **Data Science** at NM
 - Frameworks & Libraries: Flask, Django, LangChain, Gradio, Streamlit, OpenCV, Scikit-Learn, TensorFlow, NumPy, Pandas 
 - Backend & DevOps: RESTful APIs, gRPC, Celery, Docker, AWS, Git, GitHub, Redis 
 - Databases: MySQL, Neo4j (Knowledge Graphs), Qdrant (Vector Database) 
-- Tools & Platforms: JIRA, Postman, Figma, Dagshub, n8n, Keka, EWMS 
+- Tools & Platforms: JIRA, Postman, Figma, Dagshub, n8n
 - Soft Skills: Communication, Problem-Solving, Adaptability, Leadership
 
 ## 📬 Let’s Connect

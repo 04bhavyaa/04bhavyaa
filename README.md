@@ -41,10 +41,6 @@ class BhavyaJha:
         return "Planning to dive into Go lang soon! 🐹"
 ```
 
----
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 ### Areas of Interest
@@ -60,16 +56,12 @@ class BhavyaJha:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=04bhavyaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04bhavyaa&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04bhavyaa&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
 ---
@@ -77,18 +69,7 @@ class BhavyaJha:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight)](https://github.com/your-username/project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight)](https://github.com/your-username/project-2)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=04bhavyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
@@ -96,7 +77,7 @@ class BhavyaJha:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&custom_title=Bhavya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=70a5fd&line=70a5fd&point=bf91f3&area_color=bf91f3&title_color=58a6ff&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04bhavyaa&custom_title=Bhavya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=70a5fd&line=70a5fd&point=bf91f3&area_color=bf91f3&title_color=58a6ff&area=true" />
 </div>
 
 ---
@@ -134,17 +115,6 @@ mindmap
 
 ---
 
-## 🎵 Currently Coding To
-
-<div align="center">
-  
-  [![Spotify](https://img.shields.io/badge/Lo--Fi_Hip_Hop-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
-  [![Spotify](https://img.shields.io/badge/Deep_Focus-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ)
-  
-</div>
-
----
-
 ## 🤝 Let's Connect and Collaborate!
 
 <div align="center">
@@ -152,10 +122,10 @@ mindmap
   I'm always excited to connect with fellow developers, data enthusiasts, and anyone passionate about technology!
   
   **Open for:**
-  - 🤝 Collaboration on interesting projects
-  - 💡 Discussing new ideas and innovations
-  - 🎓 Learning opportunities and mentorship
-  - 🚀 Open source contributions
+  🤝 Collaboration on interesting projects
+  💡 Discussing new ideas and innovations
+  🎓 Learning opportunities and mentorship
+  🚀 Open source contributions
   
   <br/>
   
@@ -170,6 +140,6 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=04bhavyaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ⭐️ From [Bhavya Jha](https://github.com/04bhavyaa)

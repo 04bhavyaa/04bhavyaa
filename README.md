@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to my GitHub universe
+# Hey there! 👋 Welcome to my GitHub!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=6C8AE4&background=0B0F1900&center=true&vCenter=true&width=600&lines=I'm+Bhavya+Jha;Final-Year+CS+Student;AI+%26+Backend+Explorer" alt="Typing SVG" />
@@ -85,15 +85,8 @@ mindmap
       Microservices
 ```
 
-<div align="center">
-  
-  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
-  
-</div>
-
 ## 🤝 Let's Connect and Collaborate!
 
-<div align="center">
   
   I'm always excited to connect with fellow developers, data enthusiasts, and anyone passionate about technology!
   
@@ -107,8 +100,12 @@ mindmap
   
   [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-5rq6-delta.vercel.app/)
   
-</div>
 
+<div align="center">
+  
+  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
+  
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=04bhavyaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

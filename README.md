@@ -1,7 +1,7 @@
 # Hey there! 👋 Welcome to my GitHub universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C8AE4&background=0B0F1900&center=true&vCenter=true&width=600&lines=I'm+Bhavya+Jha;Data+Science+Enthusiast;Final-Year+CS+Student;AI+%26+Backend+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=500&color=6C8AE4&background=0B0F1900&center=true&vCenter=true&width=600&lines=I'm+Bhavya+Jha;Final-Year+CS+Student;AI+%26+Backend+Explorer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -41,13 +41,14 @@ class BhavyaJha:
         return "Planning to dive into Go lang soon! 🐹"
 ```
 
+--- 
+
 <div align="center">
 
 ### Areas of Interest
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-4285F4?style=for-the-badge&logo=google-assistant&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-FF9800?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
@@ -66,6 +67,7 @@ class BhavyaJha:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04bhavyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
 ---
 
 ## 🎯 Current Focus Areas
@@ -77,6 +79,7 @@ mindmap
       Machine Learning
       Deep Learning
       Data Visualization
+      Exploratory Data Analysis
     Agentic AI
       LLM Integration
       Autonomous Systems
@@ -85,10 +88,8 @@ mindmap
       API Design
       Database Management
       System Architecture
-    Cloud Technologies
       Containerization
       Microservices
-      DevOps Practices
 ```
 
 ---
@@ -102,16 +103,14 @@ mindmap
 ---
 
 ## 🤝 Let's Connect and Collaborate!
-
-<div align="center">
   
   I'm always excited to connect with fellow developers, data enthusiasts, and anyone passionate about technology!
   
   **Open for:**
-  🤝 Collaboration on interesting projects
-  💡 Discussing new ideas and innovations
-  🎓 Learning opportunities and mentorship
-  🚀 Open source contributions
+  - 🤝 Collaboration on interesting projects
+  - 💡 Discussing new ideas and innovations
+  - 🎓 Learning opportunities and mentorship
+  - 🚀 Open source contributions
   
   <br/>
   
@@ -119,9 +118,7 @@ mindmap
   
   <br/>
   
-  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
-  
-</div>
+  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*]
 
 ---
 

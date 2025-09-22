@@ -97,12 +97,16 @@ mindmap
 ## 💭 Random Dev Quote
 
 <div align="center">
-    **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
+  
+  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
+  
 </div>
 
 ---
 
 ## 🤝 Let's Connect and Collaborate!
+
+<div align="center">
   
   I'm always excited to connect with fellow developers, data enthusiasts, and anyone passionate about technology!
   
@@ -115,6 +119,8 @@ mindmap
   <br/>
   
   [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-5rq6-delta.vercel.app/)
+  
+</div>
 
 ---
 
@@ -122,3 +128,4 @@ mindmap
   <img src="https://komarev.com/ghpvc/?username=04bhavyaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   ⭐️ From [Bhavya Jha](https://github.com/04bhavyaa)
+</div>

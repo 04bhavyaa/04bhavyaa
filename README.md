@@ -97,7 +97,7 @@ mindmap
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
 </div>
 
 ---
@@ -115,10 +115,6 @@ mindmap
   <br/>
   
   [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-5rq6-delta.vercel.app/)
-  
-  <br/>
-  
-  **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*]
 
 ---
 

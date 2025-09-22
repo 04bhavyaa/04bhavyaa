@@ -56,7 +56,6 @@ class BhavyaJha:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=04bhavyaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04bhavyaa&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -64,22 +63,9 @@ class BhavyaJha:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=04bhavyaa&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04bhavyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=04bhavyaa&custom_title=Bhavya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=70a5fd&line=70a5fd&point=bf91f3&area_color=bf91f3&title_color=58a6ff&area=true" />
-</div>
-
 ---
 
 ## 🎯 Current Focus Areas

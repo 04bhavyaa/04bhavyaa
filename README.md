@@ -12,7 +12,6 @@
   
 </div>
 
----
 
 ## 🚀 About Me
 
@@ -41,8 +40,6 @@ class BhavyaJha:
         return "Planning to dive into Go lang soon! 🐹"
 ```
 
---- 
-
 <div align="center">
 
 ### Areas of Interest
@@ -51,8 +48,6 @@ class BhavyaJha:
 ![Backend](https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -67,8 +62,6 @@ class BhavyaJha:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=04bhavyaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
----
 
 ## 🎯 Current Focus Areas
 
@@ -92,17 +85,11 @@ mindmap
       Microservices
 ```
 
----
-
-## 💭 Random Dev Quote
-
 <div align="center">
   
   **"Code is like humor. When you have to explain it, it's bad."** *– Cory House*
   
 </div>
-
----
 
 ## 🤝 Let's Connect and Collaborate!
 
@@ -122,7 +109,6 @@ mindmap
   
 </div>
 
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=04bhavyaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />

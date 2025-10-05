@@ -84,23 +84,6 @@ mindmap
       System Architecture
       Containerization
       Microservices
-
-%% Assign classes
-class root root;
-class "Data Science" ds;
-class "Machine Learning","Deep Learning","Data Visualization","Exploratory Data Analysis","Computer Vision" ds;
-
-class "Agentic AI" ai;
-class "LLM Integration","Autonomous Systems","AI Workflows" ai;
-
-class "Backend Development" backend;
-class "API Design","Database Management","System Architecture","Containerization","Microservices" backend;
-
-%% Define styles
-classDef root fill=#FFD700,stroke=#333,stroke-width=2px;
-classDef ds fill=#87CEEB,stroke=#1E3A8A,stroke-width=1px;
-classDef ai fill=#FFB6C1,stroke=#7B1E7A,stroke-width=1px;
-classDef backend fill=#90EE90,stroke=#145A32,stroke-width=1px;
 ```
 
 ## 🤝 Let's Connect and Collaborate!

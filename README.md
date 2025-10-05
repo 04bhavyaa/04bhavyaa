@@ -67,44 +67,40 @@ class BhavyaJha:
 
 ```mermaid
 mindmap
-  root((Bhavya's Journey)):::root
-    Data Science:::ds
-      Machine Learning:::ml
-      Deep Learning:::dl
-      Data Visualization:::viz
-      Exploratory Data Analysis:::eda
-      Computer Vision:::cv
-    Agentic AI:::ai
-      LLM Integration:::llm
-      Autonomous Systems:::auto
-      AI Workflows:::workflow
-    Backend Development:::backend
-      API Design:::api
-      Database Management:::db
-      System Architecture:::arch
-      Containerization:::cont
-      Microservices:::micro
+  root((Bhavya's Journey))
+    Data Science
+      Machine Learning
+      Deep Learning
+      Data Visualization
+      Exploratory Data Analysis
+      Computer Vision
+    Agentic AI
+      LLM Integration
+      Autonomous Systems
+      AI Workflows
+    Backend Development
+      API Design
+      Database Management
+      System Architecture
+      Containerization
+      Microservices
 
-%% Style definitions
-classDef root fill=#FFD700,stroke=#333,stroke-width=2px;      %% Gold
-classDef ds fill=#ADD8E6,stroke=#1E3A8A,stroke-width=1px;     %% Light Blue
-classDef ml fill=#87CEEB,stroke=#1E3A8A;
-classDef dl fill=#6495ED,stroke=#1E3A8A;
-classDef viz fill=#00CED1,stroke=#1E3A8A;
-classDef eda fill=#40E0D0,stroke=#1E3A8A;
-classDef cv fill=#48D1CC,stroke=#1E3A8A;
+%% Assign classes
+class root root;
+class "Data Science" ds;
+class "Machine Learning","Deep Learning","Data Visualization","Exploratory Data Analysis","Computer Vision" ds;
 
-classDef ai fill=#FFB6C1,stroke=#7B1E7A,stroke-width=1px;     %% Pinkish
-classDef llm fill=#FF69B4,stroke=#7B1E7A;
-classDef auto fill=#FF1493,stroke=#7B1E7A;
-classDef workflow fill=#C71585,stroke=#7B1E7A;
+class "Agentic AI" ai;
+class "LLM Integration","Autonomous Systems","AI Workflows" ai;
 
-classDef backend fill=#98FB98,stroke=#145A32,stroke-width=1px; %% Green shades
-classDef api fill=#90EE90,stroke=#145A32;
-classDef db fill=#3CB371,stroke=#145A32;
-classDef arch fill=#2E8B57,stroke=#145A32;
-classDef cont fill=#66CDAA,stroke=#145A32;
-classDef micro fill=#20B2AA,stroke=#145A32;
+class "Backend Development" backend;
+class "API Design","Database Management","System Architecture","Containerization","Microservices" backend;
+
+%% Define styles
+classDef root fill=#FFD700,stroke=#333,stroke-width=2px;
+classDef ds fill=#87CEEB,stroke=#1E3A8A,stroke-width=1px;
+classDef ai fill=#FFB6C1,stroke=#7B1E7A,stroke-width=1px;
+classDef backend fill=#90EE90,stroke=#145A32,stroke-width=1px;
 ```
 
 ## 🤝 Let's Connect and Collaborate!

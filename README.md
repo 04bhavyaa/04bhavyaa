@@ -66,7 +66,7 @@ class BhavyaJha:
 ## 🎯 Current Focus Areas
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'textColor':'#ffffff', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3b82f6', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ffffff', 'lineColor':'#ffffff', 'secondaryColor':'#8b5cf6', 'tertiaryColor':'#10b981', 'textColor':'#ffffff', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
 mindmap
   root((Bhavya's Journey))
     Data Science

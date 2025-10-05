@@ -66,20 +66,20 @@ class BhavyaJha:
 ## 🎯 Current Focus Areas
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#7172a6', 'primaryTextColor':'#ffffff', 'lineColor':'#ffffff', 'secondaryColor':'#a67172', 'tertiaryColor':'#a671a0', 'secondaryTextColor':'#ffffff', 'tertiaryTextColor':'#ffffff', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#d9b0ce', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ffffff', 'lineColor':'#ffffff', 'secondaryColor':'#9f97c4', 'secondaryTextColor':'#ffffff', 'tertiaryColor':'#999976', 'tertiaryTextColor':'#ffffff', 'textColor':'#ffffff', 'nodeTextColor':'#ffffff', 'mainBkg':'#6366f1', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
 mindmap
-  root((Bhavya's Journey))
-    Data Science
+  root(Bhavya's Journey))
+    [Data Science]
       Machine Learning
       Deep Learning
       Data Visualization
       Exploratory Data Analysis
       Computer Vision
-    Agentic AI
+    [Agentic AI]
       LLM Integration
       Autonomous Systems
       AI Workflows
-    Backend Development
+    [Backend Development]
       API Design
       Database Management
       System Architecture
